@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Coma",
+  "base_artist": "Room97",
+  "createdAt": "2026-03-20T00:19:34.446163Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Coma",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/01_Coma_Muse.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Coma Pony",
+      "artist": "Omar Rodriguez-Lopez",
+      "has_synced": false,
+      "path": "select/02_Coma_Pony_Omar_Rodriguez-Lopez.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Coma",
+      "artist": "Aesop Rock",
+      "has_synced": true,
+      "path": "select/03_Coma_Aesop_Rock.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Conscious Life for Coma Boy",
+      "artist": "Aereogramme",
+      "has_synced": true,
+      "path": "select/04_Conscious_Life_for_Coma_Boy_Aereogramme.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flow Coma (AFX remix) - AFX remix",
+      "artist": "808 State",
+      "has_synced": false,
+      "path": "select/05_Flow_Coma_(AFX_remix)_-_AFX_remix_808_State.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flow Coma (AFX Remix)",
+      "artist": "808 State",
+      "has_synced": false,
+      "path": "select/06_Flow_Coma_(AFX_Remix)_808_State.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lion In A Coma",
+      "artist": "Animal Collective",
+      "has_synced": true,
+      "path": "select/07_Lion_In_A_Coma_Animal_Collective.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Coma",
+      "artist": "Big Thief",
+      "has_synced": true,
+      "path": "select/08_Coma_Big_Thief.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cumming Coma",
+      "artist": "Monarchy",
+      "has_synced": false,
+      "path": "select/09_Cumming_Coma_Monarchy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Coma",
+      "artist": "Oh Land",
+      "has_synced": false,
+      "path": "select/10_Coma_Oh_Land.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kush Coma [feat. A$AP Rocky & Zelooperz]",
+      "artist": "Danny Brown",
+      "has_synced": true,
+      "path": "select/11_Kush_Coma_[feat._A$AP_Rocky_&_Zelooperz]_Danny_Brown.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mesmer III / Coma Divine",
+      "artist": "Porcupine Tree",
+      "has_synced": false,
+      "path": "select/12_Mesmer_III___Coma_Divine_Porcupine_Tree.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mesmer, Pt. 3\u0000Coma Divine",
+      "artist": "Porcupine Tree",
+      "has_synced": false,
+      "path": "select/13_Mesmer,_Pt._3\u0000Coma_Divine_Porcupine_Tree.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Girlfriend In A Coma",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/14_Girlfriend_In_A_Coma_The_Smiths.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Coma (feat. EVO+)",
+      "artist": "Room97",
+      "has_synced": false,
+      "path": "select/pl_01_Coma_(feat._EVO+)_Room97.txt"
+    }
+  ]
+}
